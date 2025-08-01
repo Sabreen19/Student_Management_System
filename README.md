@@ -54,30 +54,6 @@ For a detailed UML class diagram of the project, refer to [UML_Diagram.md](https
 
 ---
 
-## How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Mohammed-3tef/Student_Management_System.git
-   cd Student_Management_System
-   ```
-
-2. **Compile and Run**:
-    - Compile the Java file:
-      ```bash
-      javac App.java
-      ```
-    - Run the program:
-      ```bash
-      java App
-      ```
-
-3. **Follow the Menu**:
-    - The program will display a menu with options. Enter the corresponding number to perform an action.
-    - Follow the prompts to input data or perform operations.
-
----
-
 ## Input Validation
 
 The system ensures all inputs are valid:
@@ -138,12 +114,6 @@ Contributions are welcome! If you'd like to contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mohammed-3tef/Student_Management_System/blob/main/LICENSE) file for details.
 
 ---
 
